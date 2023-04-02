@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vojk&label=Profile%20views&color=0e75b6&style=flat" alt="vojk" /> </p>
 
-- 🔭 I’m currently working on **DnD Event Manager**
+- 🔭 I’m currently working on **Card learner**
 
 - 🌱 I’m currently learning **Flask**
 
