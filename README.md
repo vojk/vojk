@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **<a style="color: white;" href="https://github.com/vojk/BeforeTheWar">BEFORE THE WAR</a>**
 
-- 🌱 I’m currently learning **REACT**
+- 🌱 I’m currently learning **REACT, TAILWINDCSS**
 
 - 📫 How to reach me **tmej.vojta@gmail.com**
 
