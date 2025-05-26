@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am Vojtěch Tmej.<br>I am a student of high school, my passion is efficient web development. 
+Hi, I am Vojtěch Tmej.<br>my passion is efficient web development. 
 
 
 ## 🌐 Socials:
